@@ -12,8 +12,8 @@ The solution uses node consistency, arc consistency (AC-3), and backtracking sea
 
 ▶️ How to Run
 -> Make sure you have Python 3.12 installed.
--> Run in terminal
+-> Run in terminal : 
 python generate.py data/structure1.txt data/words1.txt
 
--> Generate crossword as an image
+-> Generate crossword as an image : 
 python generate.py data/structure1.txt data/words1.txt output.png
